@@ -21,7 +21,7 @@ omarchy theme set "EGA Dreams"
 
 ## Palette
 
-The palette was originally sampled from EGA-style Frieren artwork and is paired here with the current fantasy landscape wallpaper. The accent preserves the original artwork's most frequent saturated deep blue; the other ANSI hues use source pixels nearest the vivid EGA primaries. No colors are lightened, blended, or desaturated. White text on black has a 21:1 contrast ratio.
+The palette pairs deep blue accents and vivid EGA-style colors with a fantasy landscape wallpaper. No colors are lightened, blended, or desaturated. White text on black has a 21:1 contrast ratio.
 
 | Role | Color |
 | --- | --- |
